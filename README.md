@@ -7,7 +7,6 @@ Fast ML audio separation using [Google Colab](https://colab.research.google.com
 
 * Open [spleeter_drive.ipynb](https://colab.research.google.com/github/matt8707/spleeter-drive/blob/main/spleeter_drive.ipynb)
 * Runtime → Run all
-* Enter your authorization code
+* Connect Google Drive
 * Add files to Google Drive `/spleeter/input`
-* Rerun `ls -Q -I pretrained_models | tr '\n' ' '`
-* Paste output and rerun last step
+* Rerun last two steps
