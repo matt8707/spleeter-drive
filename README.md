@@ -1,5 +1,10 @@
 # spleeter-drive
 
+⚠️ Deprecated in favor of [demucs](https://github.com/facebookresearch/demucs/)
+`python3 -m demucs "file.wav"`
+
+---
+
 https://github.com/deezer/spleeter
 
 Fast ML audio separation using [Google Colab](https://colab.research.google.com
